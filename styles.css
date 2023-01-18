@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;   
+    
+}
+
+body {
+    background-color:#f3f2ef;
+    margin:0;
+    padding: 0;
+}
+
+
+.navbarbgc {
+    background-color: white;   
+}
+
+.nav_bar {
+    display: flex;
+    align-items: center;  
+    
+}
+
+.menu .menu_content div {
+    margin:  0 10px 0 ;
+}
