@@ -21,7 +21,13 @@
   .body {
     background-color: #f3f2ef;
   }
-  
+  .box {
+    display: flex;
+    width: 400px;
+  }
+  .box:hover input {
+    width:300px;
+  }
   .menutext {
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
